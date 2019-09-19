@@ -68,7 +68,8 @@ PRODUCT_CODES = {
     "YouTrack Workflow Editor": "YTWE",
     "UpSource": "US",
     "0xDBE": "DBE",
-    "DataGrip": "DG"
+    "DataGrip": "DG",
+    "JetBrains Toolbox": "TBA"
 }
 
 RELEASE_XHR_ENDPOINT = "https://data.services.jetbrains.com/products/releases?code={0}&latest=true&type=release&_={1}"
